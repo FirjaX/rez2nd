@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'Sansekai', // Your GitHub org/user name. (Required)
+    username: '', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -14,8 +14,8 @@ const config = {
     linkedin: '',
     twitter: '',
     mastodon: '',
-    facebook: 'nikkixploit',
-    instagram: 'yusril.id_',
+    facebook: '',
+    instagram: '@xrezz72',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -23,10 +23,10 @@ const config = {
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
-    telegram: '',
-    website: 'https://nikkixploit.com',
+    telegram: '@Rezzz2nd',
+    website: '',
     phone: '',
-    email: 'yusril@sgbteam.id',
+    email: 'pesantren6072@gmail.com',
   },
   resume: {
     fileUrl:
